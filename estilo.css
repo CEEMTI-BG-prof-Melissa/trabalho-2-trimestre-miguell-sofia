@@ -1,0 +1,65 @@
+ body{
+                text-align: center;
+                background-color: #B89E92;
+}
+        
+h1{
+ text-align: center;
+ font-size: 300%;
+}
+.div1 {
+width: 10%;
+height: 20px;
+border: black;
+border-width: 1px 1px;
+border-style: solid;
+border-color: black;
+display: inline-block;
+text-align: center;
+margin-left: 5%;
+margin-right: 5%;
+background-color: #9A6B4B;
+}
+a{
+color: black;
+}
+            
+p{
+font-family: arial;
+text-align: justify;
+margin-left: 25%;
+margin-right: 25%;
+font-size: 130%;
+}
+            
+img{
+width: 50%; 
+height: 55%;
+display: block;
+margin: 2% auto;
+}
+.div1:hover{
+background-color: #493327;
+}
+                
+.feedback {
+display: inline-block;
+font-size: 300%;
+justify-content: center;
+margin-top: 1%;
+text-align: center;
+}
+
+.like:hover, .dislike:hover {
+transform: scale(1.2);
+transition: 0.2s;
+}
+#div09{
+    align-content: center;
+    background-color: #B89E92;
+    height: 100%;
+    width: 33%;
+    text-align: justify;
+    font-family: arial;
+              
+}
